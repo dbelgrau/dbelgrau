@@ -12,16 +12,16 @@ Currently working on commercial mobile games (5M+ downloads) while finishing my 
 # 🧰 Tech Stack
 
 **🎮 Game & 3D (daily driver)**
-Unity · C# · Blender · Shader Graph · Mobile Optimization
+Unity · C# · Blender · Mobile Optimization
 
 **🌐 Fullstack Web**
 React · Angular · JavaScript · TypeScript · Node.js · Express · Java Spring · JWT · SQL · Neo4j · MongoDB
 
 **🤖 AI & Data**
-Python · PyTorch · TensorFlow · Hugging Face · LangChain · pandas · NumPy · BeautifulSoup · Weights & Biases
+Python · PyTorch · TensorFlow · pandas · NumPy
 
 **📚 Basics**
-C++ · .NET · Docker · Docker Compose · Flask · Scala · AWS · Terraform
+C++ · .NET · Docker · Docker Compose · Flask · Scala · AWS · Terraform · Hugging Face · LangChain · BeautifulSoup · Weights & Biases
 
 ---
 
